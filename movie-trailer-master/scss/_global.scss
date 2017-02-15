@@ -1,0 +1,20 @@
+// Global Stylesheet
+
+// Color Palette
+$primary-color: gold;
+$secondary-color: purple;
+
+//typo
+//hide for mobile and tablet
+article h1 {
+    display: none;
+}
+
+
+
+
+// Video Player Styling
+video {
+    max-width: 100%;
+    width: 100%;
+}

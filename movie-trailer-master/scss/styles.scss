@@ -1,0 +1,42 @@
+/* Grand Central Station. TOC. Vertex. A Hub. */
+
+@import "global";
+@import "grid";
+@import "media-queries";
+@import "typography";
+@import "mediaplayer";
+
+body{
+    background-color:  #47476b;
+}
+head{
+    background-image: <a href="http://imgur.com/IDn07f1"><img src="http://i.imgur.com/IDn07f1.png" title="source: imgur.com" /></a>;
+}
+title{
+    align-content: center;
+}
+p {
+  font-size: 1.5em;
+  padding-top: 6em;
+  text-align: center;
+  text-transform: uppercase;
+}
+h1 {
+  color: red;
+  font-size: 6em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.char1 {
+  color: green;
+}
+
+.char2 {
+  color: blue;
+  letter-spacing: -8px;
+}
+
+.char3 {
+  color: violet;
+}
